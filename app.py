@@ -107,7 +107,7 @@ st.sidebar.markdown(
     """
     <div style="padding:10px 0;">
         If you like the project, give a 
-        <a href="https://github.com/genius-for-you/Carrierbot/upload/main" target="_blank" style="text-decoration:none;">
+        <a href="https://github.com/genius-for-you/Careerbot" target="_blank" style="text-decoration:none;">
             ⭐ on GitHub
         </a>
     </div>
