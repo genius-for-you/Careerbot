@@ -8,7 +8,6 @@ Welcome to the GenAI Career Assistant, a powerful tool designed to revolutionize
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Why It's Needed](#why-its-needed)
 - [Features](#features)
 - [Architecture Overview](#architecture-overview)
